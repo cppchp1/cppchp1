@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cppchp1
-- 👀 I’m interested in cpp
+- 👀 I’m interested in c++ qt game developemt graphic programming
 
 <!---
 cppchp1/cppchp1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
